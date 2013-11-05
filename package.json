@@ -1,0 +1,18 @@
+{
+  "name": "node.gameclz",
+  "description": "node.js app for parsing and crunching clz game collector xml files",
+  "version": "0.0.1",
+  "dependencies": {
+    "xml2js": ">=0.2.8"
+  },
+  "engines": {
+    "node": ">=0.10.21"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-mocha-test": "~0.7.0",
+    "chai": "~1.8.1",
+    "expect": "0.0.2"
+  }
+}
